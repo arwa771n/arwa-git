@@ -6,8 +6,13 @@
 	objectVersion = 90;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		872CCF0D3088E006000F7472 /* reem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 872CCF0C3088E006000F7472 /* reem.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		000000000000000000000120 /* presont me arwa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "presont me arwa.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		872CCF0C3088E006000F7472 /* reem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = reem.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -30,6 +35,7 @@
 		000000000000000000000001 = {
 			isa = PBXGroup;
 			children = (
+				872CCF0C3088E006000F7472 /* reem.swift */,
 				000000000000000000000010 /* presont me arwa */,
 				000000000000000000000020 /* Products */,
 			);
@@ -110,6 +116,7 @@
 		000000000000000120000000 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			files = (
+				872CCF0D3088E006000F7472 /* reem.swift in Sources */,
 			);
 		};
 /* End PBXSourcesBuildPhase section */
